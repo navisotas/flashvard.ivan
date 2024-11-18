@@ -26,7 +26,7 @@ body {
 
 .cartao__conteudo {
      background-color: var(--card-front-color);
-     opacity: [valor entre 0 e 1];
+     opacity: 0.5;
     text-align: center;
     /* background-color: aquamarine; */
     height: 100%;
